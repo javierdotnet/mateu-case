@@ -10,6 +10,8 @@ and the platform will create the database and the app for you.
 
 You will also be able to deploy your apps on our servers, so you only have to worry about describing your idea.
 
+The applications will be extensible, so you will be able to take another app as the base for your own apps and go growing in a modular way.
+
 Just have an idea, design your data model and app and run it!
 
 It will never have been easier, cheapest neither faster to create an application ;)
