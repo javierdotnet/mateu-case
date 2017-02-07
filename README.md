@@ -1,6 +1,6 @@
 # mateu-case
 
-This project aims to create a true CASE platform.
+This project aims to create a true online CASE platform.
 
 Here you will be able to create complete applications without writing any code, just by designing it
 in a technology agnostic way.
